@@ -2,7 +2,7 @@
 
 # Previo
 
-*Esta es la vista pública de la organización, para tener acceso a las prácticas solicita tu Registro a la organización*
+*Esta es la vista pública de la organización, para tener acceso a las prácticas, solicita tu Registro a la organización*
 
 * [Registro para Organización](https://itculiacanedu-my.sharepoint.com/:x:/g/personal/ricardo_qm_culiacan_tecnm_mx/EfbRXCjCXMZEnUqIMJ9mU84Bwkl8vPR7cx_DSd4s9hGw6w?e=7K2zdl)
 
