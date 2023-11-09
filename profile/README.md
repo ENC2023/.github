@@ -1,8 +1,10 @@
 # Tutorial - Docker Bootcamp
 
-# Previo
+Espacio de trabajo para prácticas y ejercicios de programación fundamental con Docker.
 
-*Esta es la vista pública de la organización, para tener acceso a las prácticas, solicita tu Registro a la organización*
+*Esta es la vista pública (parcial) de la organización, para tener acceso completo, solicita tu Registro a la organización*
+
+# Previo
 
 * [Registro para Organización](https://itculiacanedu-my.sharepoint.com/:x:/g/personal/ricardo_qm_culiacan_tecnm_mx/EfbRXCjCXMZEnUqIMJ9mU84Bwkl8vPR7cx_DSd4s9hGw6w?e=7K2zdl)
 
