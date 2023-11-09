@@ -2,7 +2,7 @@
 
 Espacio de trabajo para prácticas y ejercicios de programación fundamental con Docker.
 
-*Esta es la vista pública (parcial) de la organización, para tener acceso completo, solicita tu Registro a la organización*
+*Esta es la vista (parcial) pública de la organización, para tener acceso completo, solicita tu Registro a la organización*
 
 # Previo
 
